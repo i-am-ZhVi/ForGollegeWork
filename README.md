@@ -1,4 +1,4 @@
-#Create git repository
+# Create git repository
 - connect
 - create text file
 - add text file to git ignore
